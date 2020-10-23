@@ -274,7 +274,7 @@
 				ED18AB04254182F4009BDA7D /* AppDelegate */,
 				ED18AB4C254261C6009BDA7D /* BaseClass */,
 				ED18AC0E25426A4D009BDA7D /* General */,
-				ED18AC0D25426A2E009BDA7D /* Mudolar */,
+				ED18AC6825427DB3009BDA7D /* Modular */,
 				ED18AB78254261C6009BDA7D /* XHQ */,
 			);
 			path = Classes;
@@ -716,13 +716,6 @@
 			path = XHQHud;
 			sourceTree = "<group>";
 		};
-		ED18AC0D25426A2E009BDA7D /* Mudolar */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Mudolar;
-			sourceTree = "<group>";
-		};
 		ED18AC0E25426A4D009BDA7D /* General */ = {
 			isa = PBXGroup;
 			children = (
@@ -751,6 +744,13 @@
 				ED18AC1625426A82009BDA7D /* NSURL+Routes.m */,
 			);
 			path = Router;
+			sourceTree = "<group>";
+		};
+		ED18AC6825427DB3009BDA7D /* Modular */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Modular;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
